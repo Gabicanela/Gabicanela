@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @Gabicanela, mas geralmente me chamam de Gabi (como toda Gabriela)
 - 🚀 Desenvolvedora Mobile | Android (Kotlin) | iOS (Flutter)
-- 👀 Estou interessada em desenvolvimento de aplicativos Aondroid e IOS 
+- 👀 Estou interessada em desenvolvimento de aplicativos Android e IOS 
 - 🌱 Atualmente, estou aprendendo Kotlin e Dart...
 
 
