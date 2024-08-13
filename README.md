@@ -9,7 +9,7 @@
 
 
 ### Linguagens e Frameworks
-- ☕ Java | 🐍 Python | 🎯 R
+- 🐍 Python | 🎯 R | ☕ Java |
 - 🌿 Flask | 🚀 Flutter
 
 
